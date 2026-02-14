@@ -1,0 +1,20 @@
+# Detection Configuration
+# Adjust these thresholds based on your environment
+
+detection:
+  bruteforce:
+    threshold: 5
+    time_window: 300  # seconds
+  
+  port_scan:
+    threshold: 5
+    blocked_only: true
+  
+  web_attacks:
+    check_sql_injection: true
+    check_xss: true
+    check_path_traversal: true
+
+logging:
+  verbose: false
+  output_format: json

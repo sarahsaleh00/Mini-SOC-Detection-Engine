@@ -1,0 +1,7 @@
+# Mini SOC Detection Engine
+# Python dependencies (none required for basic version!)
+# This project uses only Python standard library
+
+# Optional: For future enhancements
+# pandas>=2.0.0
+# pyyaml>=6.0
