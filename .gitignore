@@ -50,3 +50,27 @@ QUICKSTART.md
 src/detections/web_attack.py
 src/detections/port_scan.py
 
+# Secrets and environment variables
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*.crt
+secrets/
+credentials/
+
+# Personal notes and task tracking
+TODO.md
+NOTES.md
+notes/
+.todo/
+
+# Local configuration overrides
+config.local.yaml
+*.local.yaml
+
+# Test data that might contain sensitive information
+test_data/
+*.pcap
+
