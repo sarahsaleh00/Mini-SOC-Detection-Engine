@@ -7,8 +7,8 @@ A Python-based threat detection tool that analyzes security logs to identify bru
 ## Features
 
 - **Brute Force Detection** - Identifies repeated failed login attempts
-- **Port Scan Detection** - Detects reconnaissance activity
-- **Web Attack Detection** - Finds SQL injection, XSS, and path traversal attempts
+- **Port Scan Detection** - Detects reconnaissance activity (in progress)
+- **Web Attack Detection** - Finds SQL injection, XSS, and path traversal  attempts (in progress)
 
 ## Quick Start
 ```bash
