@@ -48,7 +48,6 @@ QUICKSTART.md
 
 # Work in progress detection modules
 src/detections/web_attack.py
-src/detections/port_scan.py
 
 # Secrets and environment variables
 .env
